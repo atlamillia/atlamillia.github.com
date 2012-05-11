@@ -1,0 +1,23 @@
+body {
+	background-color: #CDCDCD;
+}
+
+#wrapper {
+	margin-left: 150px;
+	margin-right: 150px;
+	background-color: #FFFFFF;
+	position:fixed;
+	height:95%;
+	padding-left:15px;
+	padding-right:15px;
+	border-style:solid;
+	border-color: #C0C0C0;
+}
+
+h1 {
+	font-family: Helvetica, Arial;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
